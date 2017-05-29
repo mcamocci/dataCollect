@@ -1,0 +1,13 @@
+
+<menu  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    tools:context="mike.rozia.com.rozia.FeatureActivity">
+
+      <item android:id="@+id/delete_uploaded" android:title="upload"
+        android:orderInCategory="100"
+          android:icon="@drawable/ic_action_delete"
+          app:showAsAction="always" />
+
+</menu>
